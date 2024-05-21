@@ -1,0 +1,5 @@
+Gunicorn
+bs4
+requests
+time
+openpyxl
